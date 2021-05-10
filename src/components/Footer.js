@@ -20,7 +20,7 @@ const Footer = props => (
       </ul>
     </section>
     <section>
-      <h2>Etiam feugiat</h2>
+      <h2>Contact</h2>
       <dl className="alt">
         <dt>Address</dt>
         <dd>1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA</dd>
@@ -28,7 +28,7 @@ const Footer = props => (
         <dd>(000) 000-0000 x 0000</dd>
         <dt>Email</dt>
         <dd>
-          <a href="https://codebushi.com">information@untitled.tld</a>
+          <a href="mailto:tami@primebillingservice.com">tami@primebillingservice.com</a>
         </dd>
       </dl>
       <ul className="icons">
@@ -66,7 +66,7 @@ const Footer = props => (
       </ul>
     </section>
     <p className="copyright">
-      &copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.
+      &copy; Prime Medical Billing
     </p>
   </footer>
 )
